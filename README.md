@@ -38,9 +38,11 @@ A conveyor belt at the front collects floating debris and deposits it into a tra
 Results
 Simulation: Successfully tested the boat’s movement and trash collection in Proteus.
 Prototype: Demonstrated effective trash collection from the water surface in real-time conditions.
+
 Limitations
 Load Capacity: Can collect up to 5 kg of trash.
 Depth Limitation: Operates at a depth of 100 mm.
 Battery Life: Limited by the battery capacity.
+
 Conclusion
 The IoT-based trash collector boat effectively reduces surface water pollution. The prototype demonstrates a practical solution for waste collection in narrow water bodies, improving environmental cleanliness with minimal human intervention.
