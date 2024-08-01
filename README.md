@@ -17,9 +17,6 @@ Software Requirements
 Arduino IDE
 TinkerCAD (for prototyping)
 Proteus (for simulation)
-Circuit Diagram
-
-Block Diagram
 
 Working
 Initialization: The boat is powered on, and the system initializes.
